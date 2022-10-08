@@ -8,6 +8,9 @@ If you want to contact me 💬
 -----------
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safvanavci)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=safvanavci&show_icons=true)  
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safvanavci&layout=compact&theme=transparent&hide_border=true&title_color=ffffff)
 
