@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Safvan from Ankara.I'm 23 years old.I'm trying to be a successful frontend developer. 
+I'm Safvan from Ankara.I'm trying to be a successful frontend developer. 
 
 If you want to contact me 💬
 
