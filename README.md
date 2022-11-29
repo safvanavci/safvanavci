@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Safvan from Ankara.I'm trying to be a successful frontend developer. I'm interested in react
+I'm Safvan from Ankara.I'm trying to be a successful frontend developer. I'm interested in React.
 
 If you want to contact me 💬
 
