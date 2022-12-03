@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Safvan from Ankara.I'm trying to be a successful frontend developer. I'm interested in React.
+I'm Safvan. I live in Ankara. I am interested in frontend technologies. React covers most of my interests. I have a lot of fun developing web applications and creating interfaces. I'm using React now and I'm learning how to use Next.js effectively.
 
 If you want to contact me 💬
 
