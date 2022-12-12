@@ -10,7 +10,7 @@ My Stacks:
 * Javascript
 * React, Next
 * Redux Toolkit
-* CSS, SASS, Tailwind
+* CSS, SCSS, Tailwind
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=safvanavci&show_icons=true)  
