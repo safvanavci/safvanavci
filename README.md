@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Safvan. I live in Ankara. I am interested in frontend technologies. React covers most of my interests. I have a lot of fun developing web applications and creating interfaces. I'm using React now and I'm learning how to use Next.js effectively.
 
-My pens ✏️ -> [CodePen](https://codepen.io/safvanavci)
+My pens ✏️ -> [CodePen](https://codepen.io/safvanavci/pens/public)
 
 If you want to contact me 💬
 
